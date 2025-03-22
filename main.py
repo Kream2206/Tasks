@@ -1,0 +1,3 @@
+import func.py
+
+home()
